@@ -1,7 +1,7 @@
 ideatheme
 =========
 
-An IntelliJ IDEA settings jar. It's theme come from Sublime Text 3 and keymaps from Eclipse.
+An IntelliJ IDEA settings, including color setting and kemaps. Motivated by Sublime Text 3 and Eclipse.
 
 ![Preview1](preview1.png)
 ![Preview2](preview2.png)
