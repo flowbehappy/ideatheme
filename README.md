@@ -1,7 +1,14 @@
 ideatheme
 =========
 
-An IntelliJ IDEA settings, including color setting and kemaps. Motivated by Sublime Text 3 and Eclipse.
+An IntelliJ IDEA settings, including color and keymap settings. Motivated by Sublime Text 3(color) and Eclipse(keymap).
 
-![Preview1](preview1.png)
-![Preview2](preview2.png)
+Currently support Java and Scala.
+
+### Java
+
+![java preview1](java_preview1.png)
+
+### Scala
+
+![scala preview1](scala_preview1.png)
